@@ -118,7 +118,7 @@ Add tasks to your NirvanaHQ todo list from Alfred</string>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>at4</string>
+				<string>at</string>
 				<key>subtext</key>
 				<string>to create a new task in my nirvana inbox</string>
 				<key>text</key>
@@ -169,7 +169,10 @@ Add tasks to your NirvanaHQ todo list from Alfred</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>➡️ https://github.com/edelans/alfred-nirvanahq 
+
+
+find help for configuring the workflow, add issues, etc.</string>
 	<key>uidata</key>
 	<dict>
 		<key>084BBDB9-FFB2-49C1-AEC8-F678F1877B5C</key>
