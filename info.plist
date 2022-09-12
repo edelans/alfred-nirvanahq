@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string></string>
+	<string>com.edelans.alfred-nirvanahq</string>
 	<key>category</key>
 	<string>Productivity</string>
 	<key>connections</key>
@@ -238,7 +238,7 @@ find help for configuring the workflow, add issues, etc.</string>
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>0.1</string>
+	<string>0.2</string>
 	<key>webaddress</key>
 	<string>https://github.com/edelans/alfred-nirvanahq#readme</string>
 </dict>
