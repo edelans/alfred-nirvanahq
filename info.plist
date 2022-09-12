@@ -61,7 +61,7 @@
 	<key>createdby</key>
 	<string>edelans</string>
 	<key>description</key>
-	<string>Add tasks to your nirvanahq from Alfred
+	<string>Add tasks to your nirvanahq todo list from Alfred
 
 Add tasks to your nirvanahq from Alfred
 
@@ -97,7 +97,7 @@ Add tasks to your NirvanaHQ todo list from Alfred</string>
 				<key>script</key>
 				<string>query=$1
 
-/usr/bin/env python3 nirvana.py $query $auth_token</string>
+/usr/bin/env python3 nirvana.py "$query" "$auth_token"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -235,8 +235,10 @@ find help for configuring the workflow, add issues, etc.</string>
 			<string>auth_token</string>
 		</dict>
 	</array>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
-	<string></string>
+	<string>0.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/edelans/alfred-nirvanahq#readme</string>
 </dict>
